@@ -6,7 +6,7 @@
 
 <h2 align="center">Want to be in touch?check below</h2>
 <p align="center">
-  <a href=""><img src="https://github.com/Navachethan-Murugeppa/Navachethan-Murugeppa/blob/master/assets/instagram.svg"></a>
+  <a href=""><img src="https://github.com/Navachethan-Murugeppa/Navachethan-Murugeppa/blob/master/assets/instagram.svg" length="10px" width="10px"></a>
 </p>
 
 ![](https://komarev.com/ghpvc/?username=Navachethan-Murugeppa)
