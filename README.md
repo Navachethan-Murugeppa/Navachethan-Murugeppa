@@ -4,7 +4,10 @@
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Navachethan-Murugeppa&show_icons=true&theme=radical)
 
-<h2 align="center">Want to be in touch?<img src="https://tenor.com/view/backhand-index-pointing-down-joypixels-going-down-below-under-gif-17542125" width="25px"></h2>
+<h2 align="center">Want to be in touch?check below</h2>
+<p align="center">
+  <a href=""><img src="https://github.com/Navachethan-Murugeppa/Navachethan-Murugeppa/blob/master/assets/instagram.svg"></a>
+</p>
 
 ![](https://komarev.com/ghpvc/?username=Navachethan-Murugeppa)
 
