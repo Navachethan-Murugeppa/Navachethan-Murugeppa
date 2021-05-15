@@ -7,7 +7,7 @@
 <h2 align="center">Want to be in touch?check below</h2>
 <p align="center">
   <a href="https://www.linkedin.com/in/navachethan-murugeppa-361308169/"><img src="https://github.com/Navachethan-Murugeppa/Navachethan-Murugeppa/blob/master/assets/linkedin.png" length="30px" width="30px"></a>&nbsp;
-  <a href=""><img src="https://github.com/Navachethan-Murugeppa/Navachethan-Murugeppa/blob/master/assets/mail.png" length="30px" width="30px"></a>&nbsp;
+  <a href="mailto:navachethan.murugeppa@gmail.com"><img src="https://github.com/Navachethan-Murugeppa/Navachethan-Murugeppa/blob/master/assets/mail.png" length="30px" width="30px"></a>&nbsp;
   <a href="https://twitter.com/im_invincible12"><img src="https://github.com/Navachethan-Murugeppa/Navachethan-Murugeppa/blob/master/assets/twitter.png" length="30px" width="30px"></a>&nbsp;
   <a href="https://www.instagram.com/navachethanmurugesh/"><img src="https://github.com/Navachethan-Murugeppa/Navachethan-Murugeppa/blob/master/assets/instagram.svg" length="30px" width="30px"></a>
 </p>
