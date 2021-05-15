@@ -6,6 +6,9 @@
 
 <h2 align="center">Want to be in touch?check below</h2>
 <p align="center">
+  <a href=""><img src="https://github.com/Navachethan-Murugeppa/Navachethan-Murugeppa/blob/master/assets/linkedin.png" length="40px" width="40px"></a>
+  <a href=""><img src="https://github.com/Navachethan-Murugeppa/Navachethan-Murugeppa/blob/master/assets/mail.png" length="40px" width="40px"></a>
+  <a href=""><img src="https://github.com/Navachethan-Murugeppa/Navachethan-Murugeppa/blob/master/assets/twitter.png" length="40px" width="40px"></a>
   <a href=""><img src="https://github.com/Navachethan-Murugeppa/Navachethan-Murugeppa/blob/master/assets/instagram.svg" length="40px" width="40px"></a>
 </p>
 
