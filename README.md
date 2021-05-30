@@ -4,7 +4,7 @@
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Navachethan-Murugeppa&show_icons=true&theme=radical)
 <br/>
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Navachethan-Murugeppa&currStreakNum=2FD3EB&fire=pink&sideLabels=F00)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Navachethan-Murugeppa&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&theme=dark)](https://git.io/streak-stats)
 
 
 <h2 align="center">Want to be in touch?check below</h2>
