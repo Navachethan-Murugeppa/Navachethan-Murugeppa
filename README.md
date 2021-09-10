@@ -4,7 +4,7 @@
 <br/>
 <!--[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Navachethan-Murugeppa&theme=nightowl&hide_border=true&background=22272E&sideLabels=9BE9A8&sideNums=9BE9A8&dates=9BE9A8&ring=40C463&stroke=22272E&fire=40C463&currStreakNum=40C463&currStreakLabel=40C463)](https://git.io/streak-stats) -->
 
-
+<!--
 <h2 align="center"></h2>
 <p align="center">
   <a href="https://www.linkedin.com/in/navachethan-murugeppa-361308169/"><img src="https://github.com/Navachethan-Murugeppa/Navachethan-Murugeppa/blob/master/assets/linkedin.png" length="30px" width="30px"></a>&nbsp;
@@ -15,3 +15,4 @@
 
 ![](https://komarev.com/ghpvc/?username=Navachethan-Murugeppa)
 
+-->
