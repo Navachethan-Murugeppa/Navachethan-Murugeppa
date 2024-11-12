@@ -14,7 +14,7 @@
 </p>
 
 ![](https://komarev.com/ghpvc/?username=Navachethan-Murugeppa) -->
-[![](https://visitcount.itsvg.in/api?id=Navachethan-Murugeppa&label=Profile%20Views&icon=0&pretty=false)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=Navachethan-Murugeppa&label=Profile%20Views&color=0&icon=0&pretty=false)](https://visitcount.itsvg.in)
 
 
 
