@@ -13,6 +13,8 @@
   <a href="https://www.instagram.com/navachethanmurugesh/"><img src="https://github.com/Navachethan-Murugeppa/Navachethan-Murugeppa/blob/master/assets/instagram.svg" length="30px" width="30px"></a>
 </p>
 
-![](https://komarev.com/ghpvc/?username=Navachethan-Murugeppa)
+![](https://komarev.com/ghpvc/?username=Navachethan-Murugeppa) -->
+[![](https://visitcount.itsvg.in/api?id=Navachethan-Murugeppa&label=Profile%20Views&icon=0&pretty=false)](https://visitcount.itsvg.in)
 
--->
+
+
