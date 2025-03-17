@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<!--![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Navachethan-Murugeppa&show_icons=true&theme=radical) -->
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Navachethan-Murugeppa&show_icons=true&theme=radical)
 <br/>
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Navachethan-Murugeppa&theme=nightowl&hide_border=true&background=22272E&sideLabels=9BE9A8&sideNums=9BE9A8&dates=9BE9A8&ring=40C463&stroke=22272E&fire=40C463&currStreakNum=40C463&currStreakLabel=40C463)](https://git.io/streak-stats) 
 
